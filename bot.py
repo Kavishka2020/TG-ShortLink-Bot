@@ -25,8 +25,8 @@ bot = Client('Shortlink bot',
 @bot.on_message(Filters.command('start') & Filters.private)
 async def start(bot, update):
     await update.reply(
-        f"**Hi {update.chat.first_name}!**\n\n"
-        "I'm shortlink bot. Just send me link and get adsless short link")
+        f"**Hi {update.chat.first_name} 👋**\n\n"
+        "I am shortlink bot. Just send me link and get adsless short link.")
 
 
 @bot.on_message(Filters.regex(r'https?://[^\s]+') & Filters.private)
