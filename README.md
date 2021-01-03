@@ -3,15 +3,12 @@ Make a short link by using [Cutt.ly](https://cutt.ly/) API key Or With [Da.gd](h
 
 ### Installation
 
-#### Easy Way 
-Use [ShortLinkRobot](https://t.me/URLShortenRobot) with 10+ sites Support !!
-
 #### The Simple Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ImJanindu/TG-ShortLink-Bot)
 
 ### Developer 
-* Telegram [Mrvishal2k2](https://t.me/Mrvishal_2k2) 
-* You can checkout my bots At [BotDunia](https://t.me/BotDunia)
+* Telegram [ImJanindu](https://t.me/ImJanindu) 
+* You can checkout my bots At [InfJE](https://t.me/InfJE)
  
 
 
@@ -24,12 +21,3 @@ Use [ShortLinkRobot](https://t.me/URLShortenRobot) with 10+ sites Support !!
  You can also get it from [UseTGXBot](https://t.me/UseTGXBot)
 * `API_KEY`: (Mandatory) Create [Cutt.ly](https://cutt.ly/) account then get this value from settings (I prefer desktop site 🙂)
  If API_KEY is not provided Still u can use with [Da.gd](https://da.gd) Shortlink !!
- 
-# All rights reserved !!
-* Kangers stay away from Kang !!
-* Don't be a copy cat !!
-* Good to see if you give me credits if you are using !!
-* This is only for personal !! Don't make a Bot channel Business with this !!
-
-# Credits ❤️
-* Mahesh Malekar For his Awesome GpLinks Opensource
