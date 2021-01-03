@@ -5,8 +5,8 @@
         "telegram",
         "cuttly"
     ],
-    "website": "https://github.com/MrVishal2k2/ShortLink-bot",
-    "repository": "https://github.com/MrVishal2k2/ShortLink-bot",
+    "website": "https://github.com/ImJanindu/TG-ShortLink-Bot",
+    "repository": "https://github.com/ImJanindu/TG-ShortLink-Bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
